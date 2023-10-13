@@ -1,11 +1,13 @@
-numpy>=1.16.0
+resampy==0.3.1
+numpy==1.20
+numba==0.48.0
 torch>=1.5
 librosa>=0.5.1
 Unidecode>=0.4.20
 tensorboard
 tensorboardX
 matplotlib
-Pillow
+Pillow==10.0.1
 flask
 scipy
 tqdm
