@@ -1,8 +1,8 @@
 resampy==0.3.1
-numpy==1.20
-numba==0.48.0
-torch>=1.5
-librosa>=0.5.1
+numpy>=1.22.0
+numba==0.57.0
+torch>=1.13.0
+librosa==0.9.1
 Unidecode>=0.4.20
 tensorboard
 tensorboardX
@@ -14,3 +14,14 @@ tqdm
 soundfile
 phonemizer
 bokeh==1.4.0
+torchvision
+requests
+safetensors
+open_clip_torch
+accelerate
+transformers>=4.27.1
+IPython
+inflect
+gdown
+pygame
+

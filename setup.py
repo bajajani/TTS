@@ -99,7 +99,7 @@ setup(
         "scipy>=0.19.0",
         "torch>=1.5",
         "numpy>=1.16.0",
-        "librosa==0.6.2",
+        "librosa==0.9.1",
         "unidecode==0.4.20",
         "attrdict",
         "tensorboardX",
